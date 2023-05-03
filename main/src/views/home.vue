@@ -8,6 +8,7 @@
       <p>- 也可通过主应用基座进行访问</p>
       <p>- 即为将多个子应用项目集成到一个主应用里面</p>
       <p>- 如点击左侧子应用导航栏在主应用基座内进行子应用访问</p>
+      <p>- <a href="https://github.com/shuirongshuifu/microapp" target="_blank">GitHub地址，点击跳转</a></p>
     </div>
     <br />
     <button
