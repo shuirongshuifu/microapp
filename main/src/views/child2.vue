@@ -7,7 +7,7 @@
   <!-- url="http://localhost:7779/" -->
   <micro-app
     name="child2"
-    url="http://ashuai.work:7779/"
+    url="https://ashuai.work:7779/"
     baseroute="/child2"
     keep-alive
   ></micro-app>

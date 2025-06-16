@@ -20,7 +20,7 @@ module.exports = {
     },
     proxy: {
       "/auth": {
-        target: "http://ashuai.work:10000",
+        target: "https://ashuai.work:10000",
         changeOrigin: true, // 虚拟的站点需要更管origin
         pathRewrite: {
           "/auth": ""

@@ -7,7 +7,7 @@
   <!-- url="http://localhost:7778" -->
   <micro-app
     name="child1"
-    url="http://ashuai.work:7778"
+    url="https://ashuai.work:7778"
     baseroute="/child1"
     :data="dataForChild"
   ></micro-app>

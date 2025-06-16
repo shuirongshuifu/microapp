@@ -1,7 +1,7 @@
 <template>
   <div class="ifm">
     <h3>微前端子应用之iframe方式集成(如蓝湖)</h3>
-    <iframe src="http://ashuai.work:8890/" frameborder="0"></iframe>
+    <iframe src="https://ashuai.work:8890/" frameborder="0"></iframe>
   </div>
 </template>
 

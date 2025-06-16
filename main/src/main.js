@@ -21,7 +21,7 @@ microApp.start(
   { // 开启预加载
     preFetchApps: [
       // { name: 'child2', url: 'http://localhost:7779/' }
-      { name: 'child2', url: 'http://ashuai.work:7779/' }
+      { name: 'child2', url: 'https://ashuai.work:7779/' }
     ],
     // 函数类型
     // preFetchApps: () => [

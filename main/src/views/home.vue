@@ -29,15 +29,15 @@ export default {
       childProjects: [
         {
           childName: "权限项目-单独访问",
-          childUrl: "http://ashuai.work:7778",
+          childUrl: "https://ashuai.work:7778",
         },
         {
           childName: "ele项目-单独访问",
-          childUrl: "http://ashuai.work:7779",
+          childUrl: "https://ashuai.work:7779",
         },
         {
           childName: "blog项目-单独访问",
-          childUrl: "http://ashuai.work:8890",
+          childUrl: "https://ashuai.work:8890",
         },
       ],
     };
